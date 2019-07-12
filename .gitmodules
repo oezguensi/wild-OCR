@@ -1,0 +1,6 @@
+[submodule "image-super-resolution"]
+	path = image-super-resolution
+	url = https://github.com/idealo/image-super-resolution.git
+[submodule "EAST"]
+	path = EAST
+	url = https://github.com/kurapan/EAST.git
